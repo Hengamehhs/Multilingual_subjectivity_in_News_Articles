@@ -1,3 +1,3 @@
 # Multilingual_subjectivity_in_News_Articles
-
+In this notebook, we explore advanced text classification techniques, focusing initially on the XLM-RoBERTa model to evaluate its effectiveness in distinguishing between subjective and objective content in news articles. XLM-RoBERTa was selected for its ability to process multilingual text, making it particularly suitable for the linguistic diversity of our dataset.
 Before you can run this project, you will need to have Python installed on your machine. Additionally, the following Python libraries are required: Pandas NumPy Scikit-Learn Transformers from Hugging Face download the dataset which the link is in the report and just run the program.
